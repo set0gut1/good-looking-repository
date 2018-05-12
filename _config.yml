@@ -1,1 +1,8 @@
 theme: jekyll-theme-slate
+twitter:
+  username: set0gut1
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /logo.jpg
